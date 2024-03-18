@@ -16,7 +16,6 @@
 
 - Bài 6: đúng
 Điểm bài tập: 1.0 
-(Trong file code bai6.py có kèm thêm một file code 8.8.py, giống hệt với bài của bạn Trần Thanh Sơn?) 
 
 - Bài 7: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
 Điểm bài tập: 0.5
