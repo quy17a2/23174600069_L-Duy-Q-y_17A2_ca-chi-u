@@ -1,4 +1,6 @@
 + Mỗi bài tập thiếu ảnh hoặc file txt kết quả chạy thử. Từ lab 2 thiếu kết quả sẽ bị trừ 2 điểm tổng bài
++ Code giống hệt code bài của bạn Phạm Minh Tú?
+
 - Bài 1: đúng
 Điểm bài tập: 1.0  
 
