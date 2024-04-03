@@ -1,0 +1,25 @@
+- Bài 1: 
+a) đúng. Dùng while
+Câu b, c, d em đọc đề bài ở đâu đấy?
+Điểm bài tập: 0.25
+
+- Bài 2: 
+a) đúng
+b) trống
+Điểm bài tập: 1.0
+
+- Bài 3:
+a) Em dùng for trong khoảng (100,1000) thì số đó của em đã >0 rồi, việc gì xét điều kiện?
+b) đúng
+c) Dùng while, kiến thức ngoài lab 1,2,3
+d) đúng
+e) đúng
+Điểm bài tập: 4.25
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 6.5
+
