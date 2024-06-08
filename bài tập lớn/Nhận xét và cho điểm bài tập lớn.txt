@@ -1,0 +1,11 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: Khi số lần lắc không phải là 5, không cần in kết quả chi tiết từng lần
+Điểm: 3.0
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Không có ảnh chạy code
+Điểm: 0
+
+Điểm bài tập lớn: 7.0
